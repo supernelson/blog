@@ -1,5 +1,7 @@
 .main {
-  margin-left: 10%;
-  margin-right: 70%;
-
+  margin-left: 20%;
+  margin-right: 80%;
+}
+body {
+  background-color: blue;
 }
