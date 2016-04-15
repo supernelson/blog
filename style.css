@@ -93,15 +93,15 @@ section {
 /*Aside*/
 .aside-main {
   float: right;
+  /*
   padding-left: 85%;
   padding-right: 2%;
+  */
 }
-/*
 .aside-body {
   padding-left: 35%;
   padding-right: 2%;
 }
-*/
 .aside-entry {
   border-bottom: 1px solid #f2f2f2;
 }
